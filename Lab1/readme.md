@@ -7,5 +7,5 @@ I use a couple facinating devises that help me get the correct fuel mixture for 
 ##### Client-Server Architecture
 This is a way for "us" the clients to share information on GitHub. If you have something you are working on you can share your work on GitHub and other people can add their own ideas and if it what they shared helps then you can add the data to what you are doing and this is done from computer to computer. GitHub is basically a big thinktank to help others finish their ideas. 
 ##### Cloud Computing
-
+GitHub is considered Cloud Computing for one thing you can access Github over your phone via the GitHub app or the website. Cloud Computing is connecting users with mobile access to data and applications. GitHub you can see others user data and add to it or use it to help you finish what you are working on.  Other systems that use a Cloud would be any cell phone systems that have internet capabilities. Vehicles you have navigation, radio and communications. We also have Smart TVs and gaming systems which are some of the most used cloud computing systems out there right now and are a normality in our everyday lives.
 ### Conclusion
