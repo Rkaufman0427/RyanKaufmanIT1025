@@ -4,8 +4,8 @@ In Lab 1 you will first learn how to set up a new information sharing program th
 I use a couple facinating devises that help me get the correct fuel mixture for my Focus RS. The hardware I use are a Cobb Accessport and an app from Tune+ to help me get the right corrections. The software for the Cobb Accessport runs off of my cars computer and help run the diagnostics on my car and can keep track of Octane levels in the Fuel, Horsepower and air to fuel ratios to name a few and the Tune+ app runs on my android operating system and helps to tell me the mixture of 93 octane and E85 I need to acheive the E30 fuel mixture. I have to do the mixture my self so if it asks me to add 3.5 gallons of E85 and then 7.3 gallons of E85 that is what I do and this is the Person and process side of things. Once added to my gas tank my accessport will read the data from my engines computer and upgrade timing to keep up with the current fuel mixture. If I did not do these steps or have this software my engine would surely blow up.
 ### GitHub
 
-##### Client-Server
-
+##### Client-Server Architecture
+This is a way for "us" the clients to share information on GitHub. If you have something you are working on you can share your work on GitHub and other people can add their own ideas and if it what they shared helps then you can add the data to what you are doing and this is done from computer to computer. GitHub is basically a big thinktank to help others finish their ideas. 
 ##### Cloud Computing
 
 ### Conclusion
