@@ -1,1 +1,2 @@
-
+# Executive Summary
+In Lab 1 you will first learn how to set up a new information sharing program that we will use for our labs it is cslled GitHub. Lab 1 will also help show you the different components that make up IT. In this lesson it lays the groundwork on what IT is and what it has to offer. You will learn about the Information systems and their many components. You see how IT has helped businesses make great profits once IT was first introduced. This helps us finally get the meaning of what we are going to be learning in this class.
