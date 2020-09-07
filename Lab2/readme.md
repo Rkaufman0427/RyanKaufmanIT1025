@@ -1,8 +1,7 @@
 ## Executive Summary
 ##### In this Lab we are gong to learn about Hardware and Data representation and how it is used to help computers store date. LAb 2 will give us a break down on the five components that make up hardware: hardware, software, data, people and process. We also learn how they help with the inut and output of data and information to the mother board. We will also be learning how binary code works and how to read it.
 
-## Hardware
-### Hard Drives and Memory
+## Hardware: Hard Drives and Memory
 ##### Hard Disk Performance
 ###### The differance between latency and transfer rates in the performance of a hard drive. Mechanical latencies are measured in millisecond, include both seek time and rotational latency. Seek Time is measured defines the amount of time it takes a hard drive’s read/write head to find the physical location of a piece of data on the disk. While transfer rates are generally described in megabytes per second (MBps). Thr fastest high-performance drives were capable of an average latency of less than 3ms, an average seek time of between 4 and 7ms and maximum data transfer rates in the region of 50 and 60MBps for EIDE and SCSI-based drives respectively. Note the degree to which these maximum DTRs are below the bandwidths of the current versions of the drive’s interfaces – Ultra ATA/100 and UltraSCSI 160 – which are rated at 100MBps and 160MBps respectively. These speeds are alot faster than that of of Hard drive latency.
 
