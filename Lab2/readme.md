@@ -13,7 +13,8 @@
 ###### The differance between the 32 bit and 64 bit RAMs is that a 32 bit RAM can hold up to 4 gigabytes of data. The 64 bit can hold up to 16 Exabytes of data. With the 32 bit you will certainly run slower as the CPU with have to run slower to pull from the hard drive but with the 64 bit you will have basically an unlimited amount of memory which will in turn run faster. 
 ###### Increasing RAM makes a computer run faster, if you have low RAM then the computer will read the rest of the date off of the hard drive and this take more time than the computer taking the information from the RAM. So it goes hard drive to RAM to the CPU but if you have a high amount of RAM it can go RAM to CPU and wont have to go back to the hard drive. RAMs also transfer in MB/S which is way faster than that of a hard drive but be ahware RAMs only work on a mother board they are fitted for. These are DDR, DDR2, DDR3 and DDR4.
 
-#### Hardware: ALU and the Control Unit 
+### Hardware: ALU and the Control Unit 
+
 
 ### Data Representation
 ##### Numeric Conversions
