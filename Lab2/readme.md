@@ -21,6 +21,9 @@
 ### Hardware: Logic Gates and Circuits
 ###### A truth table can turn inputs into output or ones into zeros and zeros into ones. We can summarize how they work very quickly and simply by writing this in a table form or Truth Table. So a NAND Table would take Input 1 with a 0 and Input 2 with 0 and would have an Output of 1. The table for the NAND and the AND have exactly reversed Outputs. if you have outputs for the NAND of 1,1,1,0 the AND would be 0,0,0,1.
 
+### Hardware: IEEE - Ethically Aligned Design
+######
+
 ### Data Representation
 ##### Numeric Conversions
 ##### Hexadecimal Color Representation
