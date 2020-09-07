@@ -16,7 +16,7 @@
 ###### The ALU and the Control Unit interaction is as described, the ALU performs all the mathmatical operations inside a CPU and do do functions such as additon, subtraction and comparisons. For instance the Control Unit recieves the intructions from the RAM and then tells the ALU the type of operation to perform. The ALU can send flags to the Control Unit and then can go through a register to store number onto until it cn transfer from the set wire to the enable wire and then to the bus.
 
 ### Hardware: CPU, Input & Output 
-######
+###### Im at a grocery check out at a store. First I need to input the data which would be the barcode of the product I am purchasing. That barcode will send binary information from the barcode to be stored  in the memory and the processed from the CPU of the register. It will then it output that data in to a picture or a name of the product and price for that product on the screen for you to purchase. It does this process so fast you do not even notice what is going on. 
 
 ### Data Representation
 ##### Numeric Conversions
