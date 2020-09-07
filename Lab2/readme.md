@@ -2,13 +2,13 @@
 ##### Include your executive summary here...
 
 ### Hardware
-##### Hard Drives and Memory
-##### ALU and the Control Unit
-##### CPU, Input & Output
-##### Logic Gates and Circuits
-##### IEEE
+##### Hard Disk Performance
+##### Solid State Hard Drives
+##### RAM Explained-Random Access Memory
+
 ### Data Representation
 ##### Numeric Conversions
 ##### Hexadecimal Color Representation
+
 ### Conclusion
 ##### Include your conclusion here...
