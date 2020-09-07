@@ -18,6 +18,9 @@
 ### Hardware: CPU, Input & Output 
 ###### Im at a grocery check out at a store. First I need to input the data which would be the barcode of the product I am purchasing. That barcode will send binary information from the barcode to be stored  in the memory and the processed from the CPU of the register. It will then it output that data in to a picture or a name of the product and price for that product on the screen for you to purchase. It does this process so fast you do not even notice what is going on. 
 
+### Hardware: Logic Gates and Circuits
+###### A truth table can turn inputs into output or ones into zeros and zeros into ones. We can summarize how they work very quickly and simply by writing this in a table form or Truth Table. So a NAND Table would take Input 1 with a 0 and Input 2 with 0 and would have an Output of 1. The table for the NAND and the AND have exactly reversed Outputs. if you have outputs for the NAND of 1,1,1,0 the AND would be 0,0,0,1.
+
 ### Data Representation
 ##### Numeric Conversions
 ##### Hexadecimal Color Representation
