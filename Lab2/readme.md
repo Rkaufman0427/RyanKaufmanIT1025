@@ -13,6 +13,7 @@
 ###### Increasing RAM makes a computer run faster, if you have low RAM then the computer will read the rest of the date off of the hard drive and this take more time than the computer taking the information from the RAM. So it goes hard drive to RAM to the CPU but if you have a high amount of RAM it can go RAM to CPU and wont have to go back to the hard drive. RAMs also transfer in MB/S which is way faster than that of a hard drive but be ahware RAMs only work on a mother board they are fitted for. These are DDR, DDR2, DDR3 and DDR4.
 
 ### Hardware: ALU and the Control Unit 
+###### The ALU and the Control Unit interaction is as described, the ALU performs all the mathmatical operations inside a CPU and do do functions such as additon, subtraction and comparisons. For instance the Control Unit recieves the intructions from the RAM and then tells the ALU the type of operation to perform. The ALU can send flags to the Control Unit and then can go through a register to store number onto until it cn transfer from the set wire to the enable wire and then to the bus.
 
 
 ### Data Representation
