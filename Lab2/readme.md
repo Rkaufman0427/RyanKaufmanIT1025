@@ -25,7 +25,8 @@
 ###### IEEE an association dedicated to advancing innovation and technological excellence for the benefit of humanity, is the world's largest technical professional society. It is designed to seserve professionals involved in all aspects of the electrical, electronic, and computing fields and related areas of science and technology that underlie modern civilization. There are five areas of ethical focus and they are Accountability, Value Alignment, Explainability, Fairness and User Data Rights. By adopting and practicing the five focal areas covered in this document, designers and developers can become more ethically aware, mitigate biases within these systems, and instill responsibility and accountability in those who work with AI. As much of what we do related to artificial intelligence is new territory for all of us, individuals and groups will need to further define criteria and metrics for evaluation to better allow for the detection and mitigation of any issues.
 
 ### Data Representation
-##### Numeric Conversions
+#### Numeric Conversions
+###### The differance between Binary, Decimal and Hexadecimal numbers are the way you calculate them. Binary you use the power of 10 and convert numbers into binary code. Decimal you convert binary code in to numbers using the power of 10. Hexadecimals you use the power of 16 to covert numbers and letters in to binary code.
 ##### Hexadecimal Color Representation
 
 ### Conclusion
