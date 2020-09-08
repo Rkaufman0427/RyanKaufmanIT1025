@@ -27,7 +27,9 @@
 ### Data Representation
 #### Numeric Conversions
 ###### The differance between Binary, Decimal and Hexadecimal numbers are the way you calculate them. Binary you use the power of 10 and convert numbers into binary code. Decimal you convert binary code in to numbers using the power of 10. Hexadecimals you use the power of 16 to covert numbers and letters in to binary code.
-##### Hexadecimal Color Representation
+#### Hexadecimal Color Representation
+###### The representation of this color would be violet. This hex color site also shows you the Binary Code number and that the number AB00FF can also be a color number, which I find facinating
 
 ### Conclusion
+###### I found that in Lab 2 we start to get into actual coding. Which starts with binary code, I never new that binary code numbers of 1 and 0 actually can stand for other numbers if you put them in rows of 8. It seems like I still have a lot to learn with the Binary, Decimals and Hexadecimal especially since they use a power of 16. Just need to keep in mind that they also incorporate letters as well. I am very sure I will be coming back to some of these youtube videos to further my knowledge on figuring out these equations. 
 ##### Include your conclusion here...
