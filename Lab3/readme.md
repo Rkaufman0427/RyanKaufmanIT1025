@@ -4,7 +4,7 @@
 ### Software
 ### Virtualization
 ### Python
-#### Career Exploration
+### Career Exploration
 #### College Central
 #### Certifications
 #### Certificates and Degrees
