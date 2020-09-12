@@ -8,7 +8,8 @@
   ERP software is also know as The Enterprise Resource Planning (ERP) system (sometimes just called enterprise software) was developed to bring together an entire organization within one program. ERP software utilizes a central database that is implemented throughout the entire organization. If done properly, an ERP system can bring an organization a good return on their investment. By consolidating information systems across the enterprise and using the software to enforce best practices, most organizations see an overall improvement after implementing an ERP. Some Examples are Oracle ERP Cloud, BizAutomation, SAP S/4 HANA.
   Virtualization relies on software to simulate hardware functionality and create a virtual computer system. This enables IT organizations to run more than one virtual system – and multiple operating systems and applications – on a single server. The resulting benefits include economies of scale and greater efficiency than using multiple servers, each operating at a fraction of their capacity, to keep pace with today’s high storage and processing demands. The result: huge inefficiencies and excessive operating costs.
 ### Virtualization
-  
+  Two main problems that Virtualization can solve are when companies could partition their servers and run legacy apps on multiple operating system types and versions. Servers started being used more efficiently (or not at all), thereby reducing the costs associated with purchase, set up, cooling, and maintenance. 
+  Hypervisors separate the physical resources from the virtual environments—the things that need those resources. Hypervisors can sit on top of an operating system (like on a laptop) or be installed directly onto hardware (like a server), which is how most enterprises virtualize. Hypervisors take your physical resources and divide them up so that virtual environments can use them.
 ### Python
 ### Career Exploration
 ##### College Central
