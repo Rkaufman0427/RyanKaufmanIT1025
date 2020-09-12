@@ -6,8 +6,9 @@
   Utility Software includes programs that allow us to fix or modify your computer. They were created to fill short comings in operating systems and usually these Operating Systems have these included as part of the OPS itself. Some examples are Anti-Malware and Programs that remove software you no longer want.
   Operating System Software all systems need an OPS to be able to run programs. Some examples of this are Microsoft for Windows, Apple's Mac OS and linux. You also have smartphones with iOS for Apple and Android for Google.  
   ERP software is also know as The Enterprise Resource Planning (ERP) system (sometimes just called enterprise software) was developed to bring together an entire organization within one program. ERP software utilizes a central database that is implemented throughout the entire organization. If done properly, an ERP system can bring an organization a good return on their investment. By consolidating information systems across the enterprise and using the software to enforce best practices, most organizations see an overall improvement after implementing an ERP. Some Examples are Oracle ERP Cloud, BizAutomation, SAP S/4 HANA.
-### Virtualization
   Virtualization relies on software to simulate hardware functionality and create a virtual computer system. This enables IT organizations to run more than one virtual system – and multiple operating systems and applications – on a single server. The resulting benefits include economies of scale and greater efficiency than using multiple servers, each operating at a fraction of their capacity, to keep pace with today’s high storage and processing demands. The result: huge inefficiencies and excessive operating costs.
+### Virtualization
+  
 ### Python
 ### Career Exploration
 ##### College Central
