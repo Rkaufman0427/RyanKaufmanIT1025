@@ -21,7 +21,7 @@ Python, on the other hand, does not need compilation to binary. You just run the
 ##### Certifications
  I look up Cisco for certifications, I find Cisco to be a really amazing site that allows you to get certifictations in collaboration, security, cyberops, data center, devnet, enterprise and service providers. They also let you pick from Entry level certifications to Architects. I had no idea cisco offered these and I will definetly work on getting certifications in be it from Cisco or someone else. These can only help with my learning and help get my foot in the door even faster.
 ##### Certificates
-I clicked the post-term for IT Programming and Develpment and found that it will show me the class I need to take to get my degree in the mentioned field. I like that it gives you a path on what classes to take in what semester and how many credit hrs you can earn.
+I clicked the post-term for IT Programming and Develpment and found that it will show me the class I need to take to get my degree in the mentioned field. I like that it gives you a path on what classes to take in what semester and how many credit hrs you can earn. I like that it also shows you an Overview, Admission requirements, Program Learning Outcomes and Program Sequence.
 ##### Co-ops / Internships
 ##### Industry Associations / Student Organizations
 ### Conclusion
