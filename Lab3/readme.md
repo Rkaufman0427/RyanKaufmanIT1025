@@ -16,6 +16,7 @@
 Python, on the other hand, does not need compilation to binary. You just run the program directly from the source code. Internally, Python converts the source code into an intermediate form called bytecodes and then translates this into the native language of your computer and then runs it. All this, actually, makes using Python much easier since you don't have to worry about compiling the program, making sure that the proper libraries are linked and loaded, etc. So Compiled language is regular language that get reworked into binary code and with Python it reads it as the orignal code and no need for a rewrite.
 ### Career Exploration
 ##### College Central
+ I really think this is an amazing tool to help find Careers in your field of learning. I like that you can type in a certain job, location and it will actually find what jobs are out there. You can also add certifications, your degree, resume and GPA to help make you more desirable to companies. This is going to be an amazing tool to use once I complete my degree and/or certifications.
 ##### Certifications
 ##### Certificates and Degrees
 ##### Co-ops / Internships
