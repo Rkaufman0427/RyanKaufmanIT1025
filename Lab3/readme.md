@@ -20,6 +20,8 @@ Python, on the other hand, does not need compilation to binary. You just run the
  I really think this is an amazing tool to help find Careers in your field of learning. I like that you can type in a certain job, location and it will actually find what jobs are out there. You can also add certifications, your degree, resume and GPA to help make you more desirable to companies. This is going to be an amazing tool to use once I complete my degree and/or certifications.
 ##### Certifications
  I look up Cisco for certifications, I find Cisco to be a really amazing site that allows you to get certifictations in collaboration, security, cyberops, data center, devnet, enterprise and service providers. They also let you pick from Entry level certifications to Architects. I had no idea cisco offered these and I will definetly work on getting certifications in be it from Cisco or someone else. These can only help with my learning and help get my foot in the door even faster.
+##### Certificates
+
 ##### Co-ops / Internships
 ##### Industry Associations / Student Organizations
 ### Conclusion
