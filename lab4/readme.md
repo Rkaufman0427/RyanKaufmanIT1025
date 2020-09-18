@@ -2,6 +2,7 @@
 Include your executive summary here...
 
 ### Python IDLE
+The differance between the Shell and the File Editor in the Idle is that Shell runs code one instruction at a time and File Editor where you can type complete programs into.
 ##### Code Examples
 ### Graphics
 ##### Raster vs. Vector Graphics
