@@ -13,6 +13,8 @@ DNS: Directory of IP address common names, and the actual definition is DNS stan
 Protocol: Set of rules to allow devices to communicate, and the actual definition is A protocol is the set of rules that govern how communications take place on a network. For example, File Transfer Protocol (FTP) are the communication rules for transferring files from one host to another.
 These terms all need eachother to in able to comunicate with another computer. They all seem like they are what helps with communications.
 ##### Networking Hardware
+The benefit of a switch over a hub is that a switch is intelligent and a hub is no. A switch can also connect to specific devices that are connected to it and a hub will share with all devices connected to it.
+The benefit of a Router over a switch and hub is that a router can forward data from one network to another over the internet and Switches and Hubs can not do this. The router is basically a building block for networks.
 ##### Network Topologies
 ##### Network Design
 ##### NSA/CSS
