@@ -16,6 +16,10 @@ These terms all need eachother to in able to comunicate with another computer. T
 The benefit of a switch over a hub is that a switch is intelligent and a hub is no. A switch can also connect to specific devices that are connected to it and a hub will share with all devices connected to it.
 The benefit of a Router over a switch and hub is that a router can forward data from one network to another over the internet and Switches and Hubs can not do this. The router is basically a building block for networks.
 ##### Network Topologies
+Single point of failure is when a central hub or switch fails in which all would be affected and the entire network goes down. The topologies that experiance this are Star, Ring, Bus and Mesh.
+Inrfastructure Topology: Is wired and wireless devices that are extended to wired LAN to include wireless devices such as laptops, tablets and cell phones. The wireless accessport is a bridge to the wireless network and the wired network. 
+Wireless Mesh Topology: Devices are interconnected to eachother but are wireless only all take alot of wiring, money and is very time consuming to set up. Has many wirelss accessports.
+I would say the the Wireless Mesh would be the best although it does cost more and is very difficult to set up it works very well even if one of the routers goes down it will still work. 
 ##### Network Design
 ##### NSA/CSS
 ### Cybersecurity and Encryption
