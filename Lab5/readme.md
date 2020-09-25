@@ -22,6 +22,7 @@ Wireless Mesh Topology: Devices are interconnected to eachother but are wireless
 I would say the the Wireless Mesh would be the best although it does cost more and is very difficult to set up it works very well even if one of the routers goes down it will still work. 
 ##### Network Design
 ##### NSA/CSS
+THe NAS's role in the US Cyber Security is that they are constantly monitoring outside "Actors" of countries trying to steal peoples identitys or trying to get the upper hand on secret information. NAS monitors these avenues to make sure this does not happen. They provide intelligance support to our Armed Forces and provide wireless and wired secure communications to our warfighters and others in uniform no matter where they are, whether traveling through Afghanistan in a Humvee, diving beneath the sea, or flying into outer space. Also protecting our weapons systems. They are the kings of cyber security and provide the means to combat any cyber threat.
 ### Cybersecurity and Encryption
 ##### Information Systems Security
 ##### Cryptography
