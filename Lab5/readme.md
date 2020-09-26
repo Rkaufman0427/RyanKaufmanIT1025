@@ -33,8 +33,10 @@ This has led to an improved method of access control, called role-based access c
 The interaction of ciphertext, a public key and a private key is when a you send a plaintext message which is then encrypted with a public key. The ciphered text is transmitted through the communication channel and the recipient uses their private key to decrypt the message and then read the plain text.
 We need public key cryptography so it makes it nearly impossible for some one trying to intercept information will not be able to figure it out. Only the 2 sharing the information can figure it out.
 My Cipher was GO TRIBE which turned into TB GEVOR which had a shift or 13 letters.
-In the Frequency Fingerprint Exploration I noticed it was pretty dead on to what I typed. Pretty crazy to think that what we type actually has its own cipher to it.
+In the Frequency Fingerprint Exploration I noticed it was pretty dead on to what I typed. Pretty crazy to think that what we type actually has its own cipher to it I think it would still be the same in other languages you just have to know their alphabet.
 Polyalphabetic cipher is a cipher that uses the same plaintext letter but then you use a shift word which is used to create a cipher in a cipher and the longer the shift word the harder it is to break the cipher.
+When I did the Polyalphabetic Exploration and shift word I noticed that my sentence "the indians are going to the world series" and my shift word "baseball" made the cipher pretty hard to crack. I even had the word "the" in twice and it was spelled differently twice.
 ##### Brute-Force
+tries every possible decryption key for a cipher. Nothing stops a cryptanalyst from guessing one key, decrypting the ciphertext with that key, looking at the output, and then moving on to the next key if they didn’t find the secret message. Because the brute-force technique is so effective against the Caesar cipher, you shouldn’t actually use the Caesar cipher to encrypt secret information but Kerckoff's principle states that a cipher should still be secure even if everyone knows how the cipher works and someone else has the ciphertext.
 ### Conclusion
 Include your professional conclusion here...
