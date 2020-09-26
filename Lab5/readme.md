@@ -32,6 +32,9 @@ ACLs are simple to understand and maintain, but there are several drawbacks. The
 This has led to an improved method of access control, called role-based access control, or RBAC. With RBAC, instead of giving specific users access rights to an information resource, users are assigned to roles and then those roles are assigned the access. This allows the administrators to manage users and roles separately, simplifying administration and, by extension, improving security.
 The interaction of ciphertext, a public key and a private key is when a you send a plaintext message which is then encrypted with a public key. The ciphered text is transmitted through the communication channel and the recipient uses their private key to decrypt the message and then read the plain text.
 We need public key cryptography so it makes it nearly impossible for some one trying to intercept information will not be able to figure it out. Only the 2 sharing the information can figure it out.
+My Cipher was GO TRIBE which turned into TB GEVOR which had a shift or 13 letters.
+In the Frequency Fingerprint Exploration I noticed it was pretty dead on to what I typed. Pretty crazy to think that what we type actually has its own cipher to it.
+Polyalphabetic cipher is a cipher that uses the same plaintext letter but then you use a shift word which is used to create a cipher in a cipher and the longer the shift word the harder it is to break the cipher.
 ##### Brute-Force
 ### Conclusion
 Include your professional conclusion here...
