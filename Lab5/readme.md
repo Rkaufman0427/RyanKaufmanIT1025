@@ -1,5 +1,5 @@
 ### Executive Summary
-Include your executive summary here...
+I see that we are going to learn moreabout some programming flow charts and the programs you can use. We will also touch base on the cybersecurities and how they are apllied and when they are applied. We also get into the networking aspects of programming and what is associated with them
 
 ### Lucidchart
 I found my experiancewith the Luchid Chart was actually pretty easy, It sort of reminded me of the program we used to make the LOGO's. I like that you can share it and have your peers review and comment on it. I like how easy it was to design the flow chart but would have been easier to see an example of what you actually wanted.
@@ -39,4 +39,4 @@ When I did the Polyalphabetic Exploration and shift word I noticed that my sente
 ##### Brute-Force
 tries every possible decryption key for a cipher. Nothing stops a cryptanalyst from guessing one key, decrypting the ciphertext with that key, looking at the output, and then moving on to the next key if they didn’t find the secret message. Because the brute-force technique is so effective against the Caesar cipher, you shouldn’t actually use the Caesar cipher to encrypt secret information but Kerckoff's principle states that a cipher should still be secure even if everyone knows how the cipher works and someone else has the ciphertext.
 ### Conclusion
-Include your professional conclusion here...
+I especially liked this Lab as we got into some more computer design work with LUCID. I found it facinating with all theat goes into cybersecurities and what some of their protections are. The whole cryptography section was really interesting kind of makes me want to get into that field especially finding out that cipher were being usedas far back as Alexander!
