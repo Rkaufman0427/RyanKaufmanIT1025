@@ -12,6 +12,7 @@ TCP/IP was developed by the US department of defense for the purpose of connecti
 The “Client” in a TCP/IP connection is the computer or device that “dials the phone” and the “Server” is the computer that is “listening” for calls to come in. In other words, the Client needs to know the IP Address of whatever Server it wants to connect to and it also needs to know the port number that it wants to send and receive data through after a connection has been established. The Server only has to listen for connections and either accept them or reject them when they are initiated by a client. Once a connection through a TCP/IP port has been established between a TCP/IP client and a TCP/IP server, data can be sent in either direction exactly the same way that data is sent through any other type of port on a PC (serial, parallel, etc.). The only difference is that the data is sent across your network. The connection between a Client and a Server remains open until either the client or the server terminates the connection (i.e. hangs up the phone)
 Layers are important to changing technology because any of the layers/tasks can be changed without affecting the other layers. So if new tech steps in it wont effect anything.
 ##### Internet Security
+HTTP is Hypertext Transfer Protocol and it relates to client-server model because is sends infortmation from a computer to a webserver over the public internet. The client has to send this over the server that they are using.
 ##### Securing your Web Browser
 ### Internet Programming
 ##### World Wide Web Consortium
