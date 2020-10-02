@@ -13,6 +13,7 @@ The “Client” in a TCP/IP connection is the computer or device that “dials 
 Layers are important to changing technology because any of the layers/tasks can be changed without affecting the other layers. So if new tech steps in it wont effect anything.
 ##### Internet Security
 HTTP is Hypertext Transfer Protocol and it relates to client-server model because is sends infortmation from a computer to a webserver over the public internet. The client has to send this over the server that they are using.
+HTTPs is a secure HTTP that sends everthing scrambled in an unreadable form over the web. It uses SSL secured Socket Layer and uses a public key to encrypt data and the TLS is just the successor to SSL.
 ##### Securing your Web Browser
 ### Internet Programming
 ##### World Wide Web Consortium
