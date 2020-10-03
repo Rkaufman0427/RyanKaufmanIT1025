@@ -15,6 +15,8 @@ Layers are important to changing technology because any of the layers/tasks can 
 HTTP is Hypertext Transfer Protocol and it relates to client-server model because is sends infortmation from a computer to a webserver over the public internet. The client has to send this over the server that they are using.
 HTTPs is a secure HTTP that sends everthing scrambled in an unreadable form over the web. It uses SSL secured Socket Layer and uses a public key to encrypt data and the TLS is just the successor to SSL.
 ##### Securing your Web Browser
+You should secure your web browser or it can lead quickly to a variety of computer problems caused by anything from spyware being installed without your knowledge to intruders taking control of your computer.
+One of the risks is taking over your computer and if some can do that they can take all of your personal information.
 ### Internet Programming
 ##### World Wide Web Consortium
 ##### HTML5 and CSS
