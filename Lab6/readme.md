@@ -24,6 +24,10 @@ The standard that I picked is The Semantic Web is a Web of data — of dates and
 ##### HTML5 and CSS
 The purpose of each technology is to be able to create a web page the way you want to. The coding is very simple and easy to do. The apporach I took was with something I have an interest in and that is Baseball even though they just lost to the Yankess I still love them. SO I based my page off their history and their MLB page.
 ##### HTML and XML
+The differance between XML and HTML are that XML and HTML were designed with different goals:
+XML was designed to carry data - with focus on what data is
+HTML was designed to display data - with focus on how data looks
+XML tags are not predefined like HTML tags are
 ### Components of a URL
 ### Conclusion
 Include your conclusion here...
