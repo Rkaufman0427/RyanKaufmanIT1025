@@ -29,5 +29,6 @@ XML was designed to carry data - with focus on what data is
 HTML was designed to display data - with focus on how data looks
 XML tags are not predefined like HTML tags are
 ### Components of a URL
+Scheme is a HTTPS; Domain is www.amazon.com; Top Level Domain is .edu; default page is result of a search; Parameteres are a specific location of a page; anchor is no file provided.
 ### Conclusion
 Include your conclusion here...
