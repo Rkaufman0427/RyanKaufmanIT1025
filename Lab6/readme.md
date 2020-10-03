@@ -18,6 +18,7 @@ HTTPs is a secure HTTP that sends everthing scrambled in an unreadable form over
 You should secure your web browser or it can lead quickly to a variety of computer problems caused by anything from spyware being installed without your knowledge to intruders taking control of your computer.
 One of the risks is taking over your computer and if some can do that they can take all of your personal information.
 ### Internet Programming
+W3C is led by Tim Berners-Lee, inventor of the World Wide Web and Director and Dr. Jeffrey Jaffe, W3C CEO. They are supported by a staff of technical experts who help coordinate technology development and manage the operations of the Consortium.
 ##### World Wide Web Consortium
 ##### HTML5 and CSS
 ##### HTML and XML
