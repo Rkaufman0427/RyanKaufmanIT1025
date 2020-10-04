@@ -1,5 +1,5 @@
 ### Executive Summary
-Include your executive summary here...
+In this Lab we learn how to design our own webpage and what the meaning of some of the terminology that goes with it such as http and https. We also learn how to add pictures to a webpage and how the coding needs to be set up. We also learn about security for pcs and the internet and about securing your web browser and what programs are used.
 
 ### Internet Architecture
 ##### Internet Protocol
@@ -31,4 +31,4 @@ XML tags are not predefined like HTML tags are
 ### Components of a URL
 Scheme is a HTTPS; Domain is www.amazon.com; Top Level Domain is .edu; default page is result of a search; Parameteres are a specific location of a page; anchor is no file provided.
 ### Conclusion
-Include your conclusion here...
+I found it is going to be pretty difficult to learn how to code for the internet but with trial and error I figured it out pretty quick. I like how we got to design our own page and learn how to edit the colors and add pictures. All in all this was a pretty interesting lab.
