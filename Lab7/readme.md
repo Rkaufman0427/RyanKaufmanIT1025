@@ -1,5 +1,5 @@
 ### Executive Summary
-Include your executive summary here...
+In this lab we are going to learn more about programming. We will be using Python and W3schools again to bring our programming skills to the test.The topics are listed below and should be challenging.
 
 ### File Compression
 Zipped (compressed) files take up less storage space and can be transferred to other computers more quickly than uncompressed files. In Windows, you work with zipped files and folders in the same way that you work with uncompressed files and folders. Combine several files into a single zipped folder to more easily share a group of files. Basically you can send or share a smaller and less busy version of your work and takes less time to downlioad.
