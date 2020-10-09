@@ -12,5 +12,7 @@ Abstraction = Def. of a Shark
 Encapsulation = Swim (self)
 Inheritance = A specific type of Shark
 Another way to think of these terms are in the case of video games. The creator would have an idea for the game and would go through the abstraction process to define all the components of the game. Each component (such as avatars) would be defined in a class that would include all the attributes of an avatar (haircolor, clothes etc.) and the methods or things that an avatar can do. The creation of an avatar is creating an instance of the class which is an avatar object. The methods or things that an avatar can do are encapsulated in the methods of the class such as Run(), Jump() etc. If we needed another type of avatar that contained all the attributes and methods of the original avatar but with some additional attributes and methods the new type of avatar would inherit from the original avatar class.
+### Python OOP
+
 ### Conclusion
 Include your conclusion here...
