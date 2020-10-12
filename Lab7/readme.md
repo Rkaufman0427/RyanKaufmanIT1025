@@ -35,4 +35,4 @@ Veracity: It can be termed as the trustworthiness of the data i.e. calculation o
 A common traditional approach is to use a sample of the large dataset which could fit in memory. But with the arrival of Big Data, processing tools like Hadoop can now be used to run many exploratory data analysis tasks on full datasets, without sampling. Just write a MapReduce job, PIG or HIVE script, launch it directly on Hadoop over the full dataset, and get the results right back to your laptop.
  
 ### Conclusion
-Include your conclusion here...
+This lab was very tricky especially when it came to the Shark Diagram and how we in hindsite are buidling our own avatar. THis has a lot to do with the "Gaming" side of IT which I love. I felt like that portion was not in order because when I saw the  working they used I had no idead how or why you placed said words. I eventually figured it in thte third part of the lab. Overall a fun lab I would just lake to start puting some coding together.
