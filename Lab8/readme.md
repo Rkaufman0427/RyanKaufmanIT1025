@@ -31,6 +31,8 @@ A common traditional approach is to use a sample of the large dataset which coul
 ### Structured Query Language (SQL)
 RDBMS is the basis for SQL, and for all modern database systems such as MS SQL Server, IBM DB2, Oracle, MySQL, and Microsoft Access.
 SQL is a standard language for accessing and manipulating databases.
+The two realted tables I am picking are the ORDERS and the CUSTOMERS the Priamary Key for ORDERS is ORDER ID and the Primary Key for CUSTOMERS is CUSTOMER ID and CUSTOMER ID is also a foreign key for CUSTOMERS. The relationship between both of them is that you need customers to place orders.
+
 ### SQL Injections
 ### Ethical and Legal Implications
 ##### Code of Ethics
