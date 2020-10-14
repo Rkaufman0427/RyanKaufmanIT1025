@@ -29,6 +29,8 @@ Veracity: It can be termed as the trustworthiness of the data i.e. calculation o
 A common traditional approach is to use a sample of the large dataset which could fit in memory, But with the arrival of Big Data, processing tools like Hadoop can now be used to run many exploratory data analysis tasks on full datasets, without sampling. Just write a MapReduce job, PIG or HIVE script, launch it directly on Hadoop over the full dataset, and get the results right back to your laptop.
 
 ### Structured Query Language (SQL)
+RDBMS is the basis for SQL, and for all modern database systems such as MS SQL Server, IBM DB2, Oracle, MySQL, and Microsoft Access.
+SQL is a standard language for accessing and manipulating databases.
 ### SQL Injections
 ### Ethical and Legal Implications
 ##### Code of Ethics
