@@ -45,6 +45,11 @@ The AUP is different from a code of Ethics varies but and example of AUP are the
 I chose ESPNs privacy policy and it directs me to Disneys because Disney owns ESPN. I noticed that their privacy policy was recently modified or updated. Which I thought was a great Idea and I see how this can help with updates to stick with social injustices or changes in our laws.
 https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/
 ##### Intellectual Property
+WIPO is the global forum for intellectual property (IP) services, policy, information and cooperation. We are a self-funding agency of the United Nations, with 193 member states.
+They lead the development of a balanced and effective international IP system that enables innovation and creativity for the benefit of all. Our mandate, governing bodies and procedures are set out in the WIPO Convention, which established WIPO in 1967.
+They also make sure that every country has the resources to connect to an IP.
+You can go to a copyright office or their website and as an office of record, a copyright registry can make available certificates of registration, certified copies of registry documents that provide, with varying legal effect, important information on a work or other subject matter, its author or, through a documented chain of transfer, its present ownership.  Registration can also help to delimit the public domain, and consequently facilitate access to creative content for which no authorization from the right owner is needed.  The information contained in national registries is not only valuable in legal and economic relations but may also serve the public interest by providing a source of national statistics on creativity and culture.
+It is important to copyright your work so somebody doesnt steal it and make it their own. By doing so you can lose out on money and recognition.
 ##### Information Collection
 ### Conclusion
 Include your conclusion here...
