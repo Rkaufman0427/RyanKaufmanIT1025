@@ -1,5 +1,5 @@
 ### Executive Summary
-##### Include your executive summary here...
+In this lab we will describe various database models and practice querying a database with SQL (structured query language.)  We will Recognize key ethical and legal implications of information systems. We alos get into privacy policies and the different types that apply to technology.  
 
 ### Data, Information and Knowledge
 ##### Rational Data
