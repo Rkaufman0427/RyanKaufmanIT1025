@@ -54,4 +54,4 @@ The role of a Trademark is as follows: In principle, a trademark registration wi
 ##### Information Collection
 These are all Privacy Protections acts that help protect Persons information and data from being shared over the internet by intituting policies that sto that sharing of private information. Starting Childrens Data under the age of 13 (Coppa) Educational right (FERPA) and the one most of us have heard of which is medical information and that is (HIPPA)
 ### Conclusion
-Include your conclusion here...
+I learned alot in this lab. We got to do some more table building and leaned how to sort table with code. Also learned about the different policies and that most websites have them and that we should check those to see what the enclude. I learned more about copyright and trademarks and how they help protect you and your work.
