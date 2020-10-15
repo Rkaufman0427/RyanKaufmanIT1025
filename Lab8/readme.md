@@ -39,6 +39,8 @@ To protect a web site from SQL injection, you can use SQL parameters.
 SQL parameters are values that are added to an SQL query at execution time, in a controlled manner.
 ### Ethical and Legal Implications
 ##### Code of Ethics
+Code of ethics is a document that outlines a set of acceptable behaviors for a professional or social group; generally, it is agreed to by all members of the group. The document details different actions that are considered appropriate and inappropriate. code of ethics is a document that outlines a set of acceptable behaviors for a professional or social group; generally, it is agreed to by all members of the group. The document details different actions that are considered appropriate and inappropriate.
+The ACM has a Code of Ethics because of the varied backgrounds and experiences of the members of a group lead to a variety of ideas regarding what is acceptable behavior. While to many the guidelines may seem obvious, having these items detailed provides clarity and consistency. Explicitly stating standards communicates the common guidelines to everyone in a clear manner.
 ##### Intellectual Property
 ##### Information Collection
 ### Conclusion
