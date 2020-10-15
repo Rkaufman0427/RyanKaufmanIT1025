@@ -41,6 +41,9 @@ SQL parameters are values that are added to an SQL query at execution time, in a
 ##### Code of Ethics
 Code of ethics is a document that outlines a set of acceptable behaviors for a professional or social group; generally, it is agreed to by all members of the group. The document details different actions that are considered appropriate and inappropriate. code of ethics is a document that outlines a set of acceptable behaviors for a professional or social group; generally, it is agreed to by all members of the group. The document details different actions that are considered appropriate and inappropriate.
 The ACM has a Code of Ethics because of the varied backgrounds and experiences of the members of a group lead to a variety of ideas regarding what is acceptable behavior. While to many the guidelines may seem obvious, having these items detailed provides clarity and consistency. Explicitly stating standards communicates the common guidelines to everyone in a clear manner.
+The AUP is different from a code of Ethics varies but and example of AUP are the terms of service you accept before logging on to a WIFE say like the one at the Cleveland Clinic or TRI-C and Wthics is more based on you behaving yourself.
+I chose ESPNs privacy policy and it directs me to Disneys because Disney owns ESPN. I noticed that their privacy policy was recently modified or updated. Which I thought was a great Idea and I see how this can help with updates to stick with social injustices or changes in our laws.
+https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/
 ##### Intellectual Property
 ##### Information Collection
 ### Conclusion
