@@ -34,6 +34,9 @@ SQL is a standard language for accessing and manipulating databases.
 The two realted tables I am picking are the ORDERS and the CUSTOMERS the Priamary Key for ORDERS is ORDER ID and the Primary Key for CUSTOMERS is CUSTOMER ID and CUSTOMER ID is also a foreign key for CUSTOMERS. The relationship between both of them is that you need customers to place orders.
 
 ### SQL Injections
+SQL injection usually occurs when you ask a user for input, like their username/userid, and instead of a name/id, the user gives you an SQL statement that you will unknowingly run on your database.
+To protect a web site from SQL injection, you can use SQL parameters.
+SQL parameters are values that are added to an SQL query at execution time, in a controlled manner.
 ### Ethical and Legal Implications
 ##### Code of Ethics
 ##### Intellectual Property
