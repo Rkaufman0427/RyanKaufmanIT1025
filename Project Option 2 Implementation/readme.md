@@ -1,1 +1,5 @@
+### Scope of Project
+My scope of project was to build a web page for my car and for other Focus RS owners to enjoy. I added links to all the areas of interest for my car as well as a brief history. I implemented what we learned in our web building Lab and actually learned some other tricks on my own. My page is simple but still took me over 15 hrs of learning some new code.
 
+### Conclusion
+I had a lot of fun making this page and learning some extra code in the works. Website development might not be for me but again this was fun. Some of the challenges I faced had to do with adding pictures. I couldn't for the life of me figure out how to add pictures of my own to the website. I eventually looked it up and I need to actually add them to a physical website. I also would have liked to fige out how to put my Topics all in the middle of the page and the hyper links below each. I loved haveing to figure out the code for everything nnd how to input it, realizing I really like coding and hope I can get more efficient with it. This was a really fun and challenging class thank you for all your help.
